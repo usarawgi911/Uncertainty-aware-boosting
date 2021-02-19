@@ -27,12 +27,12 @@ Reliability of machine learning (ML) systems is crucial in safety-critical appli
 
 ### Run
 
-1. Alzheimer's Dementia - Set config parameters in `config.py` and run `python main.py`
+1. Alzheimer's Dementia - Set config parameters in `dementia/config.py` and run `dementia/python main.py`
 * Vanilla Ensemble - `boosting_type`: `rmse` and `voting_type`: `hard_voting`
 * UA Ensemble - `boosting_type`: `stddev` and `voting_type`: `hard_voting`
 * UA Ensemble (weighted) - `boosting_type`: `stddev` and `voting_type`: `uncertainty_voting`
 
-2. Parkinson's Telemonitoring Dataset - Set config parameters in `main.py` and run `python main.py`
+2. Parkinson's Telemonitoring Dataset - Set config parameters in `parkinsons/main.py` and run `parkinsons/python main.py`
 * Vanilla Ensemble - `ua_ensemble`: `False`
 * UA Ensemble - `ua_ensemble`: `True`
 * UA Ensemble (weighted) - `ua_ensemble`: `True`
