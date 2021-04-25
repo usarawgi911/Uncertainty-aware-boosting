@@ -1,9 +1,9 @@
 # Uncertainty-Aware Boosted Ensembling in Multi-Modal Settings
 
-> Uncertainty-Aware Boosted Ensembling in Multi-Modal Settings
+> [Uncertainty-Aware Boosted Ensembling in Multi-Modal Settings](https://arxiv.org/abs/2104.10715)
 
 > Utkarsh Sarawgi\*, Rishab Khincha\*, Wazeer Zulfikar\*, Satrajit Ghosh and Pattie Maes  
-> Under review 
+> To appear in IJCNN 2021 
 
 \* Equal contribution
 
@@ -46,9 +46,10 @@ This code is released under the MIT License (refer to the [LICENSE](https://gith
 If you find this project useful for your research, please use the following BibTeX entries.
 Uncertainty-Aware Boosted Ensembling in Multi-Modal Settings
 
-    @article{sarawgi2021uaensemble,
+    @article{sarawgi2021uncertaintyaware,
       title={Uncertainty-Aware Boosted Ensembling in Multi-Modal Settings},
       author={Sarawgi\*, Utkarsh and Khincha\*, Rishab and Zulfikar\*, Wazeer and Ghosh, Satrajit and Maes, Pattie},
-      journal={},
-      year={2021}
+      year={2021},
+      eprint={2104.10715},
+      archivePrefix={arXiv}
     }
